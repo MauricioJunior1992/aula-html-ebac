@@ -1,2 +1,4 @@
 Exemplo 3 da aula de Git
 alteracao via github
+alteracao via gitbash
+
